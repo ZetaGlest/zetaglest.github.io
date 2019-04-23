@@ -13,11 +13,14 @@ which means that the ZetaGlest experiment has been deprecated.
 
 The decision to rename <i>ZetaGlest</i> to <i>Glest</i> was made after
 I left the project. It's important to mention that the "new"
-<i>Glest</i> is not affiliated with the <a
+<i>Glest</i> is not affiliated with the
+
+<a
 href="http://glest.org/en/index.php">original Glest
-game&lt;http://glest.org/en/index.php&gt;</a> from which <a
-href="https://megaglest.org/"><i>MegaGlest</i></a> was forked. Also
-worth noting, when I initially created the <i>ZetaGlest</i> fork, I <a
+game&lt;http://glest.org/en/index.php&gt;</a><br /><br />
+from which <a href="https://megaglest.org/"><i>MegaGlest</i></a> was
+forked. Also worth noting, when I initially created the
+<i>ZetaGlest</i> fork, I <a
 href="https://help.github.com/en/articles/duplicating-a-repository">duplicated
 (mirrored)</a> the <i>MegaGlest</i> repository; as a result, commits by
 the <i>MegaGlest</i> developers and contributors appear in the commit
